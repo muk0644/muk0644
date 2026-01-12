@@ -24,7 +24,7 @@
 I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vision**, and **Machine Learning**. I love building intelligent systems that solve real-world problems and pushing the boundaries of what's possible with AI.
 
 üéì Currently pursuing **M.Eng. in AI Engineering for Autonomous Systems**  
-üíº Professional experience in **LLMs, Data Engineering, and Predictive Analytics**  
+üíº Experience in **LLMs, Data Engineering, and Predictive Analytics**  
 üå± Always learning and exploring new technologies in AI and ML  
 üìç **Based in Germany** | Fluent in **English** & **German** (C1)
 
@@ -73,7 +73,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-0099FF?style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-FF6B35?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -89,7 +89,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 - ü§ñ **LLMs** (Large Language Models) - Text generation & understanding
 - üëÅÔ∏è **VLMs** (Vision-Language Models) - Multimodal understanding
 - üéØ **RL Agents** (Q-Learning, DQN) - Decision-making systems
-- ÌµµÔ∏è **Agentic AI** - Multi-step reasoning and autonomous agent systems
+- Ì¥ñ **(Exploring) Agentic AI** - Multi-step reasoning and autonomous agent systems
 
 ---
 
