@@ -48,8 +48,10 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openai&logoColor=white)
+![Tool_Calling](https://img.shields.io/badge/Tool_Calling-0099FF?style=for-the-badge&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-00C853?style=for-the-badge&logo=python&logoColor=white)
 
 **Data & Analytics:**
@@ -87,6 +89,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 - ü§ñ **LLMs** (Large Language Models) - Text generation & understanding
 - üëÅÔ∏è **VLMs** (Vision-Language Models) - Multimodal understanding
 - üéØ **RL Agents** (Q-Learning, DQN) - Decision-making systems
+- ÌµµÔ∏è **Agentic AI** - Multi-step reasoning and autonomous agent systems
 
 ---
 
