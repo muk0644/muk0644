@@ -34,7 +34,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 - 📊 **Data Science**: Data pipeline development, statistical analysis, and visualization
 - 🚗 **Computer Vision**: Object detection, scene understanding, and autonomous systems
 - 🧠 **Deep Learning**: PyTorch, TensorFlow, Reinforcement Learning (Q-Learning, DQN)
-- ⚙️ **Engineering**: Automation, production-ready ML systems, currently exploring MLOps and CI/CD
+- ⚙️ **Engineering**: Automation, production-ready ML systems, deployment, and automation using GitHub Actions using CI/CD and MLOps and LLMOps
 
 ---
 
@@ -49,6 +49,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FFD21E?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![SmolAgents](https://img.shields.io/badge/SmolAgents-FF6B35?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openai&logoColor=white)
 ![Tool_Calling](https://img.shields.io/badge/Tool_Calling-0099FF?style=for-the-badge&logoColor=white)
@@ -67,13 +68,22 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Spaces-FFD21E?style=for-the-badge)
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-0099FF?style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-FF6B35?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-0099FF?style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-FF6B35?style=for-the-badge&logoColor=white)
+
+**IDEs & Development Tools:**
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ---
 
@@ -89,7 +99,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 - 🤖 **LLMs** (Large Language Models) - Text generation & understanding
 - 👁️ **VLMs** (Vision-Language Models) - Multimodal understanding
 - 🎯 **RL Agents** (Q-Learning, DQN) - Decision-making systems
-- ��� **(Exploring) Agentic AI** - Multi-step reasoning and autonomous agent systems
+- 🔍 **Agentic AI** - Multi-step reasoning and autonomous agent systems
 
 ---
 
@@ -98,9 +108,9 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 ```python
 skills = {
     "AI & ML": ["Deep Learning", "Neural Networks", "LLMs", "Computer Vision", "NLP"],
-    "Frameworks": ["PyTorch", "TensorFlow", "Keras", "Transformers", "OpenCV"],
+    "Frameworks": ["PyTorch", "TensorFlow", "Keras", "Transformers", "LangChain", "SmolAgents", "OpenCV"],
     "Data Science": ["Data Analysis", "Statistical Modeling", "Feature Engineering"],
-    "MLOps": ["Model Training", "Evaluation", "Optimization", "Deployment"],
+    "MLOps": ["Model Training", "Model Validation", "Model Evaluation", "Model Deployment", "Optimization"],
     "Tools": ["Git", "Docker", "Linux", "Jupyter", "Power BI", "ROS2"]
 }
 ```
