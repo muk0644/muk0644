@@ -79,13 +79,13 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-0099FF?style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-FF6B35?style=for-the-badge&logoColor=white) ![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white) ![APIs](https://img.shields.io/badge/APIs-0099FF?style=for-the-badge&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-FF6B35?style=for-the-badge&logoColor=white)
 
 **IDEs & Development Tools:**
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-[![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-FFF?style=for-the-badge)](https://antigravity.google/assets/image/antigravity-logo.png)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
