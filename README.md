@@ -85,7 +85,7 @@ I'm an AI Engineer with expertise in **LLMs**, **Deep Learning**, **Computer Vis
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-EA4335?style=for-the-badge&logo=google&logoColor=white)
+[![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-FFF?style=for-the-badge)](https://antigravity.google/assets/image/antigravity-logo.png)
 
 ---
 
