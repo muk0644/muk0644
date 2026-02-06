@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://muk0644.github.io/shariqkhan/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/muhammadshariqkhan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -92,8 +95,7 @@ I am an AI Engineer bridging the gap between research and production. I don't ju
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-0099FF?style=for-the-badge&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -152,20 +154,69 @@ class AIEngineer:
 ### 🤖 Multimodal LLM Fine-tuning
 Specialized in fine-tuning large language models using parameter-efficient techniques (LoRA/PEFT) for computer vision tasks, achieving significant performance improvements over baseline models.
 
-### 🎮 Reinforcement Learning
-Developed custom environments and implemented RL algorithms including Q-Learning and Deep Q-Networks (DQN) for autonomous agent training and decision-making systems.
+### 1️⃣ SmolAgents AI Assistant
+🎯 Fully functional, tool-augmented AI assistant with autonomous tool-calling (web research, weather, image generation)
+🛠️ Tech: SmolAgents, Qwen2.5-Coder, Gemini 2.5 Flash, Streamlit, Docker, GitHub Actions, Chroma DB
 
-### 📊 Data Engineering & Analytics
-Built automated data pipelines and KPI dashboards that improved operational efficiency. Expertise in processing large-scale datasets and extracting actionable insights.
+### 2️⃣ AI-Driven Predictive Maintenance for Aircraft Engine
+🎯 End-to-end predictive system for aircraft turbofan engines using NASA C-MAPSS sensor data
+🎯 Predicts Remaining Useful Life (RUL) with 99.15% accuracy using hybrid CNN-LSTM model
+🛠️ Tech: Python, TensorFlow/Keras, CNN-LSTM, Pandas
 
-### 🚦 Traffic & Transportation AI
-Applied deep learning to urban traffic analysis and autonomous driving perception tasks, working with sensor fusion and time-series prediction.
+### 3️⃣ LLM-based Agent for Driver Fatigue Detection
+🎯 Embodied AI agent using LLMs as reasoning engine for real-time driver fatigue detection
+🎯 Fine-tuned LLaMA 2 for edge deployment with multimodal sensor fusion in CARLA simulator
+🛠️ Tech: ROS 2, Meta LLaMA 2, LoRA/PEFT, RAG (FAISS), OpenCV, MediaPipe, CARLA
 
-### 🏠 California Housing Price Predictor
-Built end-to-end ML pipeline with scikit-learn for housing price prediction, achieving Test RMSE of $48,749 with Random Forest and comprehensive hyperparameter optimization.
+### 4️⃣ Robust Vehicle State Estimation
+🎯 Hybrid deep learning framework for vehicle state estimation (position, velocity, orientation)
+🎯 Combines RNN, Transformer, and Physics-Informed Neural Networks (PINNs) with Kalman Filter fusion
+🛠️ Tech: Python, PyTorch, GRU, Transformers, PINNs
 
-### 🚦 Deep RL Traffic Signal Control
-Implemented Deep Q-Network (DQN) integrated with SUMO traffic simulator for intelligent traffic light optimization, trained over 500 episodes with stable convergence.
+### 5️⃣ Smart City Traffic Control
+🎯 Deep Reinforcement Learning system optimizing traffic light phases for congestion reduction
+🎯 DQN with Experience Replay integrated with SUMO traffic simulator
+🛠️ Tech: Python, PyTorch, Deep Q-Network (DQN), SUMO Simulator, NumPy
+
+### 6️⃣ Urban Traffic Analysis & Prediction
+🎯 End-to-end ML pipeline for large-scale traffic flow analysis using UTD19 dataset
+🎯 Custom Neural Network reducing MSE by 61% with K-Means clustering for behavior identification
+🛠️ Tech: PyTorch, Scikit-learn, Pandas, K-Means Clustering, Folium
+
+### 7️⃣ E2E DriveAI: ROS2 Modular Framework
+🎯 Self-driving car system using deep learning for steering and speed control from sensor data
+🎯 Sensor fusion of Camera + LiDAR with custom CUDA-optimized processing for high-speed inference
+🛠️ Tech: ROS 2, PyTorch, Transformers, CUDA, ResNet-18, PointPillars, Open3D
+
+### 8️⃣ California Housing Price Predictor
+🎯 Comprehensive ML pipeline for house price prediction with automated feature engineering
+🎯 Random Forest achieving low error rates with stratified sampling for data reliability
+🛠️ Tech: Scikit-Learn, Random Forest, Pandas, NumPy, Joblib
+
+### 9️⃣ Mini-CNN Framework: C++ Inference Engine
+🎯 Lightweight CNN framework built from scratch using C++17 without external ML libraries
+🎯 LeNet-5 architecture with INT8 quantization reducing memory by 75%, optimized with Im2col algorithm
+🛠️ Tech: C++17, STL, Make, INT8 Quantization, Im2col
+
+### 🔟 Autonomous Agent Training using Q-Learning
+🎯 Self-learning autonomous agent for complex grid environments using Standard Q-Learning and DQN
+🎯 Built custom "ShariqQuest" environment with comprehensive hyperparameter tuning
+🛠️ Tech: Python, PyTorch, Gymnasium, Pygame
+
+### 1️⃣1️⃣ 3DGazeNet Extended Gaze Estimation
+🎯 Non-intrusive Driver Monitoring System (DMS) for assessing driver alertness
+🎯 Extended 3DGazeNet with eye-behavior analysis and 90.5% gaze classification accuracy
+🛠️ Tech: ResNet-18, Geometric Computer Vision, Deep Learning
+
+### 1️⃣2️⃣ LangChain-MongoDB Chat Assistant
+🎯 Intelligent chat application with persistent message history across sessions.
+🎯 Features multi-user support and real-time responses using Gemini 2.5 Flash.
+🛠️ Tech: Streamlit, LangChain, MongoDB Atlas, Google Generative AI (Gemini), Python-dotenv
+
+### 1️⃣3️⃣ Vision-LLM Traffic Analysis & LoRA Fine-Tuning
+🎯 Fine-tuned Qwen2-VL-7B for thermal camera traffic object counting with 92.76% accuracy.
+🎯 Implemented the Sculptor Method for efficient 4-bit LoRA training, reducing VRAM by 43%.
+🛠️ Tech: PyTorch, Qwen2-VL, LoRA (PEFT), BitsAndBytes, UrbanIng-V2X Dataset, Docker
 
 ---
 
