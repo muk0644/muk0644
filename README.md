@@ -35,12 +35,21 @@ I am an AI Engineer bridging the gap between research and production. I don't ju
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **SmolAgents AI Assistant** | Agentic AI system with autonomous Tool Calling (Web/Python), CI/CD pipeline, and dual-cloud deployment (Docker). |
-| **Qwen2-VL Traffic Perception** | Fine-tuned Qwen2-VL-7B Multimodal LLM achieving 93% accuracy on zero-shot urban traffic counting. |
-| **Driver Fatigue AI Agent** | Embodied AI agent using ROS 2, LLaMA 2, and RAG for real-time safety intervention. |
-| **Mini-CNN Inference Engine** | Custom C++17 inference engine built from scratch with Im2col and INT8 Quantization (No PyTorch). |
+| # | Project | Description | Tech Stack |
+|---|---------|-------------|-----------|
+| 1️⃣ | **SmolAgents AI Assistant** | Fully functional, tool-augmented AI assistant with autonomous tool-calling (web research, weather, image generation) | SmolAgents, Qwen2.5-Coder, Gemini 2.5 Flash, Streamlit, Docker, GitHub Actions, Chroma DB |
+| 2️⃣ | **AI-Driven Predictive Maintenance for Aircraft Engine** | End-to-end predictive system for aircraft turbofan engines with 99.15% RUL prediction accuracy using hybrid CNN-LSTM | Python, TensorFlow/Keras, CNN-LSTM, Pandas |
+| 3️⃣ | **LLM-based Agent for Driver Fatigue Detection** | Embodied AI agent using LLMs for real-time driver safety with fine-tuned LLaMA 2 and multimodal sensor fusion | ROS 2, Meta LLaMA 2, LoRA/PEFT, RAG (FAISS), OpenCV, MediaPipe, CARLA |
+| 4️⃣ | **Robust Vehicle State Estimation** | Hybrid deep learning framework combining RNN, Transformer, and PINNs with Kalman Filter for vehicle state estimation | Python, PyTorch, GRU, Transformers, PINNs |
+| 5️⃣ | **Smart City Traffic Control** | Deep Reinforcement Learning system optimizing traffic light phases for congestion reduction | Python, PyTorch, Deep Q-Network (DQN), SUMO Simulator, NumPy |
+| 6️⃣ | **Urban Traffic Analysis & Prediction** | End-to-end ML pipeline reducing MSE by 61% with K-Means clustering for traffic behavior identification | PyTorch, Scikit-learn, Pandas, K-Means Clustering, Folium |
+| 7️⃣ | **E2E DriveAI: ROS2 Modular Framework** | Complete self-driving car system with sensor fusion (Camera + LiDAR) and CUDA-optimized inference | ROS 2, PyTorch, Transformers, CUDA, ResNet-18, PointPillars, Open3D |
+| 8️⃣ | **California Housing Price Predictor** | Comprehensive ML pipeline for house price prediction with automated feature engineering and Random Forest | Scikit-Learn, Random Forest, Pandas, NumPy, Joblib |
+| 9️⃣ | **Mini-CNN Framework: C++ Inference Engine** | Lightweight CNN framework built from scratch in C++17 with INT8 quantization reducing memory by 75% | C++17, STL, Make, INT8 Quantization, Im2col |
+| 🔟 | **Autonomous Agent Training using Q-Learning** | Self-learning agent for complex grid environments with custom "ShariqQuest" environment | Python, PyTorch, Gymnasium, Pygame |
+| 1️⃣1️⃣ | **3DGazeNet Extended Gaze Estimation** | Non-intrusive Driver Monitoring System with 90.5% gaze classification accuracy | ResNet-18, Geometric Computer Vision, Deep Learning |
+| 1️⃣2️⃣ | **LangChain-MongoDB Chat Assistant** | Intelligent chat application with persistent message history and multi-user support | Streamlit, LangChain, MongoDB Atlas, Google Generative AI (Gemini) |
+| 1️⃣3️⃣ | **Vision-LLM Traffic Analysis & LoRA Fine-Tuning** | Fine-tuned Qwen2-VL-7B for thermal camera traffic counting with 92.76% accuracy using Sculptor Method | PyTorch, Qwen2-VL, LoRA (PEFT), BitsAndBytes, Docker |
 
 ---
 
